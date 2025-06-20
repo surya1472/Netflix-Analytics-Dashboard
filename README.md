@@ -8,7 +8,7 @@ The main goal of this project is to provide an interactive dashboard that helps 
 - Which countries produce the most Netflix content?
 - What are the most common genres and ratings?
 
-## Files Included
+## 🎬  Files Included
 - `Netflix Dashboard.twb` – Tableau packaged workbook
 - `Netflix Dashboard Image.png` – Screenshot of the dashboard
 - `netflix_data.xlsx` - Raw dataset
@@ -69,7 +69,7 @@ The main goal of this project is to provide an interactive dashboard that helps 
 🧾 7. Content Detail Lookup
 - What is the description of a specific title?
 
-  ## How to Open
+  ## 🚀 How to Open
   
   1.Download the `.twb` file
   

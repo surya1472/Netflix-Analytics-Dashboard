@@ -68,3 +68,7 @@ The main goal of this project is to provide an interactive dashboard that helps 
 
 🧾 7. Content Detail Lookup
 - What is the description of a specific title?
+
+  ##How to Open
+  1.Download the `.twb` file
+  2.Open it tableau public (free) or Tableau Desktop

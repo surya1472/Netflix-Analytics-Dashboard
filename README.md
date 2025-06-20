@@ -42,7 +42,7 @@ The main goal of this project is to provide an interactive dashboard that helps 
 ✔️ Data source linked and open  
 ✔️ Ready for portfolio or resume showcase
 
-**##📌Key Questions**
+**📌Key Questions**
 🎥 1. Content Type Distribution
 - How many Movies vs TV Shows are available on Netflix?
 - Which content type dominates the platform?

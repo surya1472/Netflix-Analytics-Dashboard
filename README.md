@@ -74,3 +74,8 @@ The main goal of this project is to provide an interactive dashboard that helps 
   1.Download the `.twb` file
   
   2.Open it tableau public (free) or Tableau Desktop
+
+  ## 📫 Contact
+**Created by Suryasnata Panigrahi**
+📧 Email: work.suryasnata@gmail.com
+🔁 LinkedIn: [https://www.linkedin.com/in/suryasnata-panigrahi)
